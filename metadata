@@ -2,16 +2,16 @@
     "name": "Kamala Deez Nuts",
     "symbol": "KDNUTS",
     "image": "https://raw.githubusercontent.com/kamaladeeznuts/metadata/refs/heads/main/token-image.png",
-    "description": "The inspiration behind KDNUTS stems from the absurdity of modern-day political banter, particularly the ongoing satirical rivalry between former U.S. President Donald Trump and Vice President Kamala Harris. Kamala? More like... KamalaDeezNuts"
+    "description": "The inspiration behind KDNUTS stems from the absurdity of modern-day political banter, particularly the ongoing satirical rivalry between former U.S. President Donald Trump and Vice President Kamala Harris. Kamala? More like KamalaDeezNuts",
     "seller_fee_basis_points": 0,
     "external_url": "https://kamaladeeznutscrypto.web.app/",
     "properties": {
         "files": [
-          {
-        "uri": "https://raw.githubusercontent.com/kamaladeeznuts/metadata/refs/heads/main/token-image.png",
-            "type": "image/png"
-          }
+            {
+                "uri": "https://raw.githubusercontent.com/kamaladeeznuts/metadata/refs/heads/main/token-image.png",
+                "type": "image/png"
+            }
         ],
         "category": "image"
-  }
+    }
 }
